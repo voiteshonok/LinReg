@@ -1,0 +1,202 @@
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 0, MAE=64.6190603094718
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 1, MAE=41.25220624365957
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 2, MAE=27.37630439597039
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 3, MAE=19.071990006132815
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 4, MAE=14.08811734620928
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 5, MAE=11.236690335078574
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 6, MAE=9.701644870688128
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 7, MAE=8.944270509975508
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 8, MAE=8.588024337489276
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 9, MAE=8.394775093627898
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 10, MAE=8.295369508829772
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 11, MAE=8.247735654415694
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 12, MAE=8.224208612017318
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 13, MAE=8.211353909609764
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 14, MAE=8.204077950519626
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 15, MAE=8.199937175528717
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 16, MAE=8.197451881554418
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 17, MAE=8.19578028052787
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 18, MAE=8.194655000376015
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 19, MAE=8.19389685724348
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 20, MAE=8.193385655542393
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 21, MAE=8.19304069377291
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 22, MAE=8.19280773792268
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 23, MAE=8.192650308384238
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 24, MAE=8.192543846407574
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 25, MAE=8.192471804659208
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 26, MAE=8.192423024727802
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 27, MAE=8.19238997625757
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 28, MAE=8.19236757352061
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 29, MAE=8.192352379349662
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 30, MAE=8.192342069169955
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 31, MAE=8.19233506984266
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 32, MAE=8.19233031610473
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 33, MAE=8.1923270861862
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 34, MAE=8.192324890782778
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 35, MAE=8.192323398012032
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 36, MAE=8.192322382656913
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 37, MAE=8.19232169181373
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 38, MAE=8.192321221628735
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 39, MAE=8.192320901534867
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 40, MAE=8.192320683564557
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 41, MAE=8.19232053510053
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 42, MAE=8.192320433956093
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 43, MAE=8.19232036503487
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 44, MAE=8.192320318061935
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 45, MAE=8.192320286041971
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 46, MAE=8.192320264211327
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 47, MAE=8.192320249325261
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 48, MAE=8.192320239173144
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 49, MAE=8.192320232248635
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 50, MAE=8.192320227524965
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 51, MAE=8.192320224302273
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 52, MAE=8.192320222103376
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 53, MAE=8.192320220602904
+Oct 23, 2021 11:54:27 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 54, MAE=8.192320219578892
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 55, MAE=8.192320218880022
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 56, MAE=8.192320218402976
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 57, MAE=8.192320218077365
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 58, MAE=8.192320217855071
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 59, MAE=8.192320217703319
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 60, MAE=8.192320217599713
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 61, MAE=8.192320217528977
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 62, MAE=8.19232021748067
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 63, MAE=8.192320217447683
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 64, MAE=8.192320217425165
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 65, MAE=8.192320217409785
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 66, MAE=8.192320217399276
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 67, MAE=8.192320217392112
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 68, MAE=8.192320217387204
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 69, MAE=8.192320217383875
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 70, MAE=8.192320217381582
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 71, MAE=8.192320217380017
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 72, MAE=8.192320217378944
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 73, MAE=8.19232021737821
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 74, MAE=8.192320217377711
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 75, MAE=8.19232021737737
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 76, MAE=8.192320217377139
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 77, MAE=8.192320217376983
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 78, MAE=8.192320217376878
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 79, MAE=8.192320217376814
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 80, MAE=8.192320217376764
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 81, MAE=8.19232021737671
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 82, MAE=8.192320217376702
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 83, MAE=8.19232021737669
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 84, MAE=8.192320217376682
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 85, MAE=8.19232021737667
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 86, MAE=8.192320217376649
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 87, MAE=8.192320217376642
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 88, MAE=8.192320217376638
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 89, MAE=8.192320217376647
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 90, MAE=8.192320217376642
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 91, MAE=8.192320217376642
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 92, MAE=8.192320217376636
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 93, MAE=8.192320217376636
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 94, MAE=8.192320217376638
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 95, MAE=8.192320217376636
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 96, MAE=8.192320217376636
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 97, MAE=8.192320217376636
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 98, MAE=8.192320217376636
+Oct 23, 2021 11:54:28 PM LinearRegression $anonfun$fit$3
+INFO: Epoch: 99, MAE=8.192320217376636
+Oct 23, 2021 11:54:28 PM Main$ main
+INFO: loss = 7.955968832343124
