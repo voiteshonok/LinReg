@@ -1,2 +1,2 @@
 # LinReg
-Custom implementation of Linear Regression on Scala
+Homework assignment for BigData course in MADE Mail.ru Group
